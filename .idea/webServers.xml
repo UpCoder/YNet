@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7b0b4733-0425-48a7-9137-64fd685720e6" name="weakly_label_segmentation" url="http://10.214.161.183">
+        <fileTransfer host="10.214.161.183" port="22" rootFolder="/home/give/PycharmProjects/weakly_label_segmentation" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
