@@ -42,7 +42,7 @@ gym==0.10.5
 gyp==0.1
 h5py==2.7.1
 helper-functions==2.0.11
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.6
 imageio==2.3.0
 imagesize==1.1.0
